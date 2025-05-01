@@ -2,6 +2,7 @@
 
 # Install necessary packages
 sudo apt update
+sudo apt install -y ngnix
 sudo apt install -y telnet nginx
 
 # Enable and start nginx
